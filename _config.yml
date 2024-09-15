@@ -21,7 +21,7 @@ repository               : "michelalorandi/michelalorandi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lorandi.png"
+  avatar           : "lorandi.jpg"
   name             : "Michela Lorandi"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "PhD Candidate in Computer Science "
