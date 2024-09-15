@@ -48,7 +48,7 @@
     
     {% if post.paperurl and post.slidesurl and post.posterurl %}
       <p><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.posterurl }}">Download Poster</a></p>
-      {% elif post.paperurl and post.posterurl %}
+      {% elsif post.paperurl and post.posterurl %}
       <p><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.posterurl }}">Download Poster</a></p>
       {% elsif post.paperurl and post.slidesurl %}
       <p><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
