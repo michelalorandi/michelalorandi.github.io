@@ -13,7 +13,7 @@ I'm interested in Artificial Intelligence and Deep Learning with a focus on Natu
 
 I enjoy working on interdisciplinary projects that combine AI in different domains, such as mental health and education.
 
-Feel free to browse my projects and get in touch if you're interested in collaborating or learning more about my work!
+Feel free to get in touch if you're interested in collaborating or learning more about my work!
 
 <!-- 
 Throughout my academic journey, I’ve developed a strong foundation in Deep Learning, working extensively with various architectures and models. I’m proficient in Python, PyTorch, and several other machine learning frameworks, which I use to implement cutting-edge algorithms and experiment with new ideas.
